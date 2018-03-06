@@ -1,4 +1,4 @@
 # MovieDB
 
 # Screenshot
-![](Capture Main.JPG)
+![](Capture%20Main.JPG)
