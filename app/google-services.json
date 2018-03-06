@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1056793753387",
+    "firebase_url": "https://news-today-d81e7.firebaseio.com",
+    "project_id": "news-today-d81e7",
+    "storage_bucket": "news-today-d81e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056793753387:android:a0dab234be564f59",
+        "android_client_info": {
+          "package_name": "com.project.muliains.newstoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056793753387-8s90vhmt2j46m1qqq3rus74e5laoonjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlv0i11u4ts3MSwmkwhxidi2oqLc857R8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
