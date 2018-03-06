@@ -1,4 +1,12 @@
 # MovieDB
+Make a simple aplication with a MovieDB API.
 
 # Screenshot
-![](Capture%20Main.JPG)
+
+
+
+
+
+             MainActivity                          CustomTabsIntent IMDB
+
+![](Capture%20imdb.JPG)
